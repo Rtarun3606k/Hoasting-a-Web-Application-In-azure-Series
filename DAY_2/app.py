@@ -127,3 +127,5 @@ if __name__ == "__main__":
 
 # clone the repo
 # https://github.com/Rtarun3606k/Hosting-a-Web-Application-In-azure-Series
+
+# python3 -m venv my_env
