@@ -126,4 +126,4 @@ if __name__ == "__main__":
     app.run(debug=True , host="0.0.0.0",port=8080)
 
 # clone the repo
-# https://github.com/Rtarun3606k/Hoasting-a-Web-Application-In-azure-Series
+# https://github.com/Rtarun3606k/Hosting-a-Web-Application-In-azure-Series
