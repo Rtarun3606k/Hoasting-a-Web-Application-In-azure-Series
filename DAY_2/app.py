@@ -123,7 +123,7 @@ def logout():
 if __name__ == "__main__":
     with app.app_context():
         db.create_all()
-    app.run(debug=True)
+    app.run(debug=True , host="0.0.0.0",port=8080)
 
 # clone the repo
 # https://github.com/Rtarun3606k/Hoasting-a-Web-Application-In-azure-Series
